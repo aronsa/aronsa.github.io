@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    <style>
+      * {
+          font-family: monospace;
+      }
+      p {
+        line-height: 1.6;
+        font-size: 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1> Hello, my love </h1>
+    <p> Happy four years! I treause our time together so greatly. </p>
+    <p> One thing I've been remiss to share with you thus far has been a song for you. <em>Misty</em> is one of the first songs I ever soloed over in Jazz band, and is a song that has always been close to my heart. While I'm not there to serenade you in person, I'm hoping to share this with you for this very special occastion. </p>
+    <p> With love, </p>
+    <p> Sam </p>
+  </body>
+</html>
